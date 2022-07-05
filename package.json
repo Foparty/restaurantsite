@@ -1,0 +1,23 @@
+{
+  "name": "restaurantsite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "sass --watch src/main.scss:src/main.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Foparty/restaurantsite.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Foparty/restaurantsite/issues"
+  },
+  "homepage": "https://github.com/Foparty/restaurantsite#readme",
+  "devDependencies": {
+    "sass": "^1.53.0"
+  }
+}
