@@ -1,0 +1,18 @@
+@use '../abstracts/index' as a;
+
+#header-main {
+  background: a.$primary;
+  color: var(--gray-2);
+  height: 3vh;
+  margin: auto 0;
+  line-height: 3vh;
+}
+
+.header-main {
+  
+}
+.header-main-right {
+  i {
+    margin-top: px;
+  }
+}

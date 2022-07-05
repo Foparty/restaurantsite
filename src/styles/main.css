@@ -1,0 +1,29 @@
+.header-main {
+  font-size: 0.7rem;
+}
+
+.header-main-right span {
+  font-size: 0.7rem;
+}
+.header-main-right ul {
+  font-size: 0.7rem;
+}
+
+a, a:visited {
+  text-decoration: none;
+  color: var(--gray-2);
+}
+
+#header-main {
+  background: #19472A;
+  color: var(--gray-2);
+  height: 3vh;
+  margin: auto 0;
+  line-height: 3vh;
+}
+
+.header-main-right i {
+  margin-top: px;
+}
+
+/*# sourceMappingURL=main.css.map */
